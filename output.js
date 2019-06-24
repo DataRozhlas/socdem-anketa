@@ -86,6 +86,17 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./js/byeie.js":
+/*!*********************!*\
+  !*** ./js/byeie.js ***!
+  \*********************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("function byeIE() {\n  if (navigator.appName === 'Microsoft Internet Explorer' || !!(navigator.userAgent.match(/Trident/) || navigator.userAgent.match(/rv:11/))) {\n    var warn = document.createElement('div');\n    warn.innerHTML = 'Používáte zastaralý Internet Explorer, takže vám části tohoto webu nemusí fungovat. Navíc to <a target=\"_blank\" style=\"color:white;\" rel=\"noopener noreferrer\" href=\"https://www.zive.cz/clanky/microsoft-internet-explorer-neni-prohlizec-prestante-ho-tak-pouzivat/sc-3-a-197149/default.aspx\">není bezpečné</a>, zvažte přechod na <a target=\"_blank\" style=\"color:white;\" rel=\"noopener noreferrer\" href=\"https://www.mozilla.org/cs/firefox/new/\">jiný prohlížeč</a>.';\n    warn.style.cssText = 'text-align:center;position:absolute;width:100%;height:auto;opacity:1;z-index:100;background-color:#d52834;top:37px;padding-top:4px;padding-bottom:3px;color:white;';\n    document.body.appendChild(warn);\n  }\n}\n\nbyeIE();\n\n//# sourceURL=webpack:///./js/byeie.js?");
+
+/***/ }),
+
 /***/ "./js/script.js":
 /*!**********************!*\
   !*** ./js/script.js ***!
@@ -94,7 +105,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var preact__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! preact */ \"./node_modules/preact/dist/preact.mjs\");\n\n/** @jsx h */\n\nfunction onLoad(e) {\n  var data = JSON.parse(e.target.response);\n  Object(preact__WEBPACK_IMPORTED_MODULE_0__[\"render\"])(Object(preact__WEBPACK_IMPORTED_MODULE_0__[\"h\"])(\"div\", {\n    id: \"anketa\"\n  }, data.map(function (el) {\n    return Object(preact__WEBPACK_IMPORTED_MODULE_0__[\"h\"])(\"div\", {\n      className: \"respondent\"\n    }, Object(preact__WEBPACK_IMPORTED_MODULE_0__[\"h\"])(\"img\", {\n      className: \"portret\",\n      src: 'https://samizdat.blob.core.windows.net/storage/anketa-cssd/' + el.f,\n      alt: el.p\n    }), Object(preact__WEBPACK_IMPORTED_MODULE_0__[\"h\"])(\"div\", {\n      className: \"bio\"\n    }, Object(preact__WEBPACK_IMPORTED_MODULE_0__[\"h\"])(\"div\", {\n      className: \"jmeno\"\n    }, \"\".concat(el.j, \" \").concat(el.p)), Object(preact__WEBPACK_IMPORTED_MODULE_0__[\"h\"])(\"div\", {\n      className: \"vek\"\n    }, el.k, \" \", el.s)), Object(preact__WEBPACK_IMPORTED_MODULE_0__[\"h\"])(\"div\", {\n      className: el.o.length > 0 ? 'odpoved' : 'odpoved cervene'\n    }, el.o.length > 0 ? el.o : 'bez odpovědi'));\n  })), document.getElementById(\"anketa-wrapper\"));\n}\n\n;\nvar r = new XMLHttpRequest();\nr.addEventListener(\"load\", onLoad);\nr.open(\"GET\", \"https://data.irozhlas.cz/socdem-anketa/data/data.json\");\nr.send();\n\n//# sourceURL=webpack:///./js/script.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./byeie */ \"./js/byeie.js\");\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_byeie__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var preact__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! preact */ \"./node_modules/preact/dist/preact.mjs\");\n // loučíme se s IE\n\n\n/** @jsx h */\n\nfunction onLoad(e) {\n  var data = JSON.parse(e.target.response);\n  Object(preact__WEBPACK_IMPORTED_MODULE_1__[\"render\"])(Object(preact__WEBPACK_IMPORTED_MODULE_1__[\"h\"])(\"div\", {\n    id: \"anketa\"\n  }, data.map(function (el) {\n    return Object(preact__WEBPACK_IMPORTED_MODULE_1__[\"h\"])(\"div\", {\n      className: \"respondent\"\n    }, Object(preact__WEBPACK_IMPORTED_MODULE_1__[\"h\"])(\"img\", {\n      className: \"portret\",\n      src: 'https://samizdat.blob.core.windows.net/storage/anketa-cssd/' + el.f,\n      alt: el.p\n    }), Object(preact__WEBPACK_IMPORTED_MODULE_1__[\"h\"])(\"div\", {\n      className: \"bio\"\n    }, Object(preact__WEBPACK_IMPORTED_MODULE_1__[\"h\"])(\"div\", {\n      className: \"jmeno\"\n    }, \"\".concat(el.j, \" \").concat(el.p)), Object(preact__WEBPACK_IMPORTED_MODULE_1__[\"h\"])(\"div\", {\n      className: \"vek\"\n    }, el.k, \" \", el.s)), Object(preact__WEBPACK_IMPORTED_MODULE_1__[\"h\"])(\"div\", {\n      className: el.o.length > 0 ? 'odpoved' : 'odpoved cervene'\n    }, el.o.length > 0 ? el.o : 'bez odpovědi'));\n  })), document.getElementById(\"anketa-wrapper\"));\n}\n\n;\nvar r = new XMLHttpRequest();\nr.addEventListener(\"load\", onLoad);\nr.open(\"GET\", \"https://data.irozhlas.cz/socdem-anketa/data/data.json\");\nr.send();\n\n//# sourceURL=webpack:///./js/script.js?");
 
 /***/ }),
 

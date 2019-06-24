@@ -1,4 +1,5 @@
-﻿import { h, render } from "preact";
+﻿import './byeie'; // loučíme se s IE
+import { h, render } from "preact";
 /** @jsx h */
 
 function onLoad(e) {
