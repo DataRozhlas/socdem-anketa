@@ -33,7 +33,7 @@ Nejhlasitější kritika se ozývá z některých krajů. Například šéf úst
 „My jsme za Ústecký kraj v pátek i navrhovali usnesení, kterým jsme vybízeli předsednictvo, aby ukončilo koaliční spolupráci na vládní úrovni. Výsledek znáte. Pro nás se tak nic nezměnilo. Jenom nám to potvrdilo, že bychom měli zavčasu vyskočit, než se ta krize bude prohlubovat dál,“ řekl.
 
 <left>
-<h3>Demonstrace na Letné<h3>
+<h3>Demonstrace na Letné</h3>
 <p>Nedělní protest byl největší od listopadu 1989. Podle organizátorů ze spolku Milion chvilek se na pražské Letenské pláni sešlo více než 250 000 lidí. Zakladatel spolku Mikuláš Minář na závěr akce oznámil další velkou demonstraci, kterou chce uspořádat 16. listopadu. V případě mimořádných událostí ale podle něj mohou být protesty i dříve. Do listopadu mají sympatizanti demonstrací každodenní prací pokračovat v tom, co setkání nastartovala.</p>
 </left>
 
