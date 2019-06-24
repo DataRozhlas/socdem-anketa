@@ -21,5 +21,5 @@ function onLoad(e) {
 
 const r = new XMLHttpRequest();
 r.addEventListener("load", onLoad);
-r.open("GET", "https://data.irozhlas.cz/vaclavak-anketa/data/data.json");
+r.open("GET", "https://data.irozhlas.cz/socdem-anketa/data/data.json");
 r.send();
