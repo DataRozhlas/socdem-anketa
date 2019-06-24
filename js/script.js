@@ -10,9 +10,9 @@ function onLoad(e) {
           <img className="portret" src={'https://samizdat.blob.core.windows.net/storage/anketa-cssd/' + el.f} alt={el.p} />
           <div className="bio">
             <div className="jmeno">{`${el.j} ${el.p}`}</div>
-            <div className="vek">{el.k}, {el.s}</div>
+            <div className="vek">{el.k} {el.s}</div>
           </div>
-          <div className="odpoved">{el.o}</div>
+          <div className={el.o.length>0 ? 'odpoved' : 'odpoved cervene'}>{el.o.length>0 ? el.o : 'bez odpovědi'}</div>
         </div>
       ))}
     </div>
