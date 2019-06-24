@@ -34,7 +34,7 @@ Nejhlasitější kritika se ozývá z některých krajů. Například šéf úst
 
 <left>
 <h3>Demonstrace na Letné<h3>
-Nedělní protest byl největší od listopadu 1989. Podle organizátorů ze spolku Milion chvilek se na pražské Letenské pláni sešlo více než 250 000 lidí. Zakladatel spolku Mikuláš Minář na závěr akce oznámil další velkou demonstraci, kterou chce uspořádat 16. listopadu. V případě mimořádných událostí ale podle něj mohou být protesty i dříve. Do listopadu mají sympatizanti demonstrací každodenní prací pokračovat v tom, co setkání nastartovala.
+<p>Nedělní protest byl největší od listopadu 1989. Podle organizátorů ze spolku Milion chvilek se na pražské Letenské pláni sešlo více než 250 000 lidí. Zakladatel spolku Mikuláš Minář na závěr akce oznámil další velkou demonstraci, kterou chce uspořádat 16. listopadu. V případě mimořádných událostí ale podle něj mohou být protesty i dříve. Do listopadu mají sympatizanti demonstrací každodenní prací pokračovat v tom, co setkání nastartovala.</p>
 </left>
 
 Podobně mluví také bývalý ministr vnitra a současný předseda plzeňské buňky Milan Chovanec: „Jsem přesvědčen, že ta vláda sociální demokracii zlikviduje.“
