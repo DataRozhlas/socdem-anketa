@@ -6,11 +6,16 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 „Demonstrace jsou legitimní vyjádření občanů, co si myslí. Radost z toho nemám.“ Tak zněla třeba odpověď poslance Václava Votavy na dotaz, jak on osobně vnímá protivládní protesty a zda na něj ta zatím poslední, dosud nejmasivnější demonstrace měla nějaký dopad.
 
-Votava je přesvědčený, že spojení sociálních demokratů s Andrejem Babišem vládu poškozuje. Když tak minulý pátek předsednictvo ČSSD hlasovalo o dalším setrvání ve vládě, zvedl ruku proti. A nebyl sám, pro odchod hlasovala podle Votavy celkem desítka straníků. „Udělal jsem to z vlastního přesvědčení, nebyl jsem pro tu vládu od začátku,“ doplnil.
+Votava je přesvědčený, že vládnutí s Andrejem Babišem sociální demokraty poškozuje. Když tak minulý pátek předsednictvo ČSSD hlasovalo o dalším setrvání ve vládě, zvedl ruku proti. A nebyl sám, pro odchod hlasovala podle Votavy celkem desítka straníků. „Udělal jsem to z vlastního přesvědčení, nebyl jsem pro tu vládu od začátku,“ doplnil.
 
 Na středečním klíčovém hlasování ovšem Votava nebude. Má podle svých slov pracovní povinnosti jinde, z jednání sněmovny je tak omluven. Votava přitom není jediný, kdo je s aktuálním stavem nespokojený. Uvnitř ČSSD se kritika ozývá nejen od některých zákonodárců, ale i z krajských buněk.
 
 Vyplývá to alespoň z ankety serveru iROZHLAS.cz, který oslovil 33 straníků. Ptal se jich konkrétně na to, jaký na ně osobně měla nedělní demonstrace na Letné vliv a zda by měla ČSSD nadále za stávající situace setrvat ve vládě. Z oslovených poslanců, ministrů, hejtmanů či šéfů krajských buněk reagovala na zaslané dotazy více než polovina. Jejich odpovědi si můžete přečíst v následujícím přehledu.
+
+<h3>
+  <b>1. Má na vás nedělní demonstrace vliv?</b><br>
+  <b>2. Má ČSSD setrvat dál ve vládě?</b>
+</h3>
 
 <wide>
   <div id="anketa-wrapper"></div>
@@ -22,7 +27,7 @@ Vládu v čele s Andrejem Babišem podpořili i zákonodárci Roman Sklenák a O
 
 „Moc možností, jak sestavit vládu, není. Volby by asi jiné řešení nepřinesly, nebo by skončily patovou situací. ČSSD by měla dělat vše pro to, aby se vše řádně vyšetřilo a zákony tu platily stejně pro všechny,“ uvedl Zaorálek.
 
-Demonstrace nebere podle svých slov na lehkou váhu ani předseda poslaneckého klubu ČSSD Jan Chvojka. „Včerejší demonstraci beru jako silný signál části české společnosti, že není spokojená s tím, jak premiér Babiš poskládal svůj kabinet,“ uvedl.
+Demonstrace nebere podle svých slov na lehkou váhu ani předseda poslaneckého klubu ČSSD Jan Chvojka. „Nedělní demonstraci beru jako silný signál části české společnosti, že není spokojená s tím, jak premiér Babiš poskládal svůj kabinet,“ uvedl.
 
 Ohledně setrvání ve vládě ale odkazuje na páteční jednání předsednictva, které odhlasovalo ve spolupráci pokračovat. „Vstup do vlády navíc před rokem demokraticky potvrdila většina členů ČSSD. Vnitřní rozhodovací mechanismy nejsou trhací kalendář,“ doplnil.
 
