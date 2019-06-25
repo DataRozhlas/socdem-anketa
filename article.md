@@ -25,7 +25,7 @@ Z poslanců ČSSD reagoval také třeba Jaroslav Foldyna. Ten současný kabinet
 
 Vládu v čele s Andrejem Babišem podpořili i zákonodárci Roman Sklenák a Ondřej Veselý. Pesimistický výhled naopak zaslal bývalý ministr zahraničí Lubomír Zaorálek, nakonec ale i on dal kabinetu zelenou.
 
-„Moc možností, jak sestavit vládu, není. Volby by asi jiné řešení nepřinesly, nebo by skončily patovou situací. ČSSD by měla dělat vše pro to, aby se vše řádně vyšetřilo a zákony tu platily stejně pro všechny,“ uvedl Zaorálek.
+„Moc možností, jak sestavit vládu, není. Volby by asi jiné řešení nepřinesly nebo by skončily patovou situací. ČSSD by měla dělat vše pro to, aby se vše řádně vyšetřilo a zákony tu platily stejně pro všechny,“ uvedl Zaorálek.
 
 Demonstrace nebere podle svých slov na lehkou váhu ani předseda poslaneckého klubu ČSSD Jan Chvojka. „Nedělní demonstraci beru jako silný signál části české společnosti, že není spokojená s tím, jak premiér Babiš poskládal svůj kabinet,“ uvedl.
 
@@ -52,6 +52,6 @@ Smířlivější tón má pražský šéf Pavel Pavlík. Ten upozorňuje na to, 
 
 Proti setrvání ve vládě je také plzeňský hejtman Josef Bernard. Ten se dokonce demonstrací i sám aktivně účastní. „Netajím se tím, že se jich osobně účastním, protože občané mají právo se vyjadřovat k tomu, co se jim nelíbí na práci politiků. Osobně jsem byl proti vstupu ČSSD do vlády, ale byl jsem přehlasován stranickým referendem,“ popsal.
 
-Jiný názor zastává královehradecký hejtman Jiří Štěpán. Podle něj by s odchodem ČSSD z vlády Babišův vliv, a stejně tak vliv SPD a prezidenta Miloše Zemana posílil. „Došlo by k ukončení proevropského směrování vlády, kterého je sociální demokracie garantem, jinak bychom šli zcela na východ,“ reagoval na dotazy.
+Jiný názor zastává královéhradecký hejtman Jiří Štěpán. Podle něj by s odchodem ČSSD z vlády Babišův vliv, a stejně tak vliv SPD a prezidenta Miloše Zemana posílil. „Došlo by k ukončení proevropského směrování vlády, kterého je sociální demokracie garantem, jinak bychom šli zcela na východ,“ reagoval na dotazy.
 
 Jednání sněmovny, na kterém se bude řešit vyslovení nedůvěry vládě, je svoláno na středu. Kabinet ho ale zřejmě přečká. Proti se v pátek po jednání předsednictva postavili právě sociální demokraté. Pro vyslovení nedůvěry vládě je potřeba většina 101 hlasů. Opoziční ODS, Piráti, KDU-ČSL, TOP 09 a STAN, kteří hlasování vyvolali, mají spolu s SPD dohromady jen 87 hlasů.
